@@ -1,6 +1,15 @@
 {
     "versions": [
         {
+            "package_version": "0.2.2",
+            "download_url": "https://github.com/jeeves833/ffxii-poptracker/releases/download/v0.2.2/ffxii_tracker.zip",
+            "sha256": "4c49ed7ad6b5059b953de3f2cd3c96ce8f0fffc9239370f3c2919c59b8b870eb",
+            "changelog": [
+                "Fix Tchita Uplands checks",
+                "Dawn shard required for Jahara checks"
+            ]
+        },
+        {
             "package_version": "0.2.1",
             "download_url": "https://github.com/jeeves833/ffxii-poptracker/releases/download/v0.2.1/ffxii_tracker.zip",
             "sha256": "1cc65096be6be2b8e039e0c90c843a7f15b09c71f6545d000888706642436de7",
